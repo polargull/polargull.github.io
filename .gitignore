@@ -1,6 +1,6 @@
-venv/
-.ipynb_checkpoints/
-*.pdf
-raw_pdf_text.txt
-__pycache__/
-.DS_Store
+# 忽略所有文件和目录
+*
+# 允许跟踪 index.html
+!index.html
+# 允许跟踪文件夹结构（如果需要）
+!.gitignore
