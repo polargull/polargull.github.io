@@ -1,0 +1,6 @@
+venv/
+.ipynb_checkpoints/
+*.pdf
+raw_pdf_text.txt
+__pycache__/
+.DS_Store
